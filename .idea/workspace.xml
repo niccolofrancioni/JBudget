@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71fd82d6-054f-49b4-97ed-83469b781d8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cOSiCKs1q60CJOto1ySIuukmZb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="it.unicam.cs.pa.jbudget105325" />
+      <recent name="it.unicam.cs.pa" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="it.unicam.cs.pa.jbudget105325" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="it.unicam.cs.pa.jbudget105325" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.ReportTest">
+    <configuration name="BancomatTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;it.unicam.cs.pa.jbudget105325.BancomatTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BankAccountTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;it.unicam.cs.pa.jbudget105325.BankAccountTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CreditCardTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;it.unicam.cs.pa.jbudget105325.CreditCardTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LedgerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;it.unicam.cs.pa.jbudget105325.LedgerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReportTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;it.unicam.cs.pa.jbudget105325.ReportTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ReportTest" />
+        <item itemvalue="Gradle.LedgerTest" />
+        <item itemvalue="Gradle.BancomatTest" />
+        <item itemvalue="Gradle.CreditCardTest" />
+        <item itemvalue="Gradle.BankAccountTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71fd82d6-054f-49b4-97ed-83469b781d8d" name="Default Changelist" comment="" />
+      <created>1590398272029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590398272029</updated>
+      <workItem from="1590398284601" duration="5135000" />
+      <workItem from="1590410954132" duration="12662000" />
+      <workItem from="1590434024517" duration="1033000" />
+      <workItem from="1590435442725" duration="124000" />
+      <workItem from="1590436960022" duration="4168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593806816102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1593806816102" />
+    <state x="519" y="113" width="464" height="497" key="#com.intellij.ide.util.MemberChooser" timestamp="1592666669948">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="519" y="113" width="464" height="497" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592666669948" />
+    <state x="608" y="134" width="374" height="587" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1590441373360" />
+    <state x="466" y="233" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591972375883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="233" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1591972375883" />
+    <state x="228" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591541450530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="228" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1591541450530" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593615419030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593615419030" />
+    <state x="424" y="78" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593894402315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="78" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1593894402315" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1591796233118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591796233118" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1593895160674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593895160674" />
+    <state width="1558" height="217" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590441615627" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1593895160674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593895160674" />
+    <state width="1558" height="217" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590441615627" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1593895160674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593895160674" />
+    <state width="1558" height="217" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590441615626" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1593895160674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593895160674" />
+    <state width="1558" height="217" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590441615627" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1591630305357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591630305357" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1591630305357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591630305357" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1591630305356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591630305356" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1591630305357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591630305357" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1593894906706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593894906706" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1591546934564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1591546934564" />
+    <state x="483" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1590436987855">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="483" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1590436987855" />
+    <state x="490" y="148" width="449" height="427" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593805442394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="490" y="148" width="449" height="427" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1593805442394" />
+    <state x="574" y="175" width="442" height="504" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1590419304042" />
+    <state x="65" y="0" key="new project wizard" timestamp="1593077294654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593077294654" />
+    <state x="389" y="121" key="refactoring.ChangeSignatureDialog" timestamp="1592344542024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="121" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1592344542024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/it/unicam/cs/pa/jbudget105325/BankAccount.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

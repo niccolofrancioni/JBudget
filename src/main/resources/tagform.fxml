@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.controllers.TagFormController">
+  <children>
+    <MenuBar fx:id="menuBar" VBox.vgrow="NEVER">
+      <menus>
+        <Menu fx:id="menu" mnemonicParsing="false" onAction="#onClickEventMenu" text="Menu">
+          <items>
+            <MenuItem fx:id="addAccountMenuItem" mnemonicParsing="false" text="Aggiungi account" />
+            <MenuItem fx:id="addTransactionMenuItem" mnemonicParsing="false" text="Aggiungi transazione" />
+            <MenuItem fx:id="addTagMenuItem" mnemonicParsing="false" text="Aggiungi tag" />
+            <MenuItem fx:id="statisticsMenuItem" mnemonicParsing="false" text="Statistiche" />
+              <MenuItem fx:id="removeItemsMenuItem" mnemonicParsing="false" text="Rimuovi elementi" />
+          </items>
+        </Menu>
+      </menus>
+    </MenuBar>
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+         <children>
+            <GridPane layoutX="154.0" layoutY="107.0" prefHeight="102.0" prefWidth="272.0">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="111.0" minWidth="10.0" prefWidth="111.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="185.0" minWidth="10.0" prefWidth="161.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints maxHeight="54.0" minHeight="10.0" prefHeight="51.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="69.0" minHeight="10.0" prefHeight="51.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="29.0" minHeight="0.0" prefHeight="0.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Label text="Nome:">
+                     <GridPane.margin>
+                        <Insets />
+                     </GridPane.margin>
+                  </Label>
+                  <Label text="Descrizione:" GridPane.rowIndex="1">
+                     <GridPane.margin>
+                        <Insets />
+                     </GridPane.margin>
+                  </Label>
+                  <TextField fx:id="nome" GridPane.columnIndex="1" />
+                  <TextField fx:id="descrizione" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+               </children>
+            </GridPane>
+            <Button fx:id="insertButton" layoutX="290.0" layoutY="209.0" mnemonicParsing="false" onMouseClicked="#onClickEventAdd" text="Inserisci" />
+            <Label fx:id="messageLabel" layoutX="384.0" layoutY="213.0" />
+            <Button fx:id="newButton" disable="true" layoutX="294.0" layoutY="245.0" mnemonicParsing="false" onMouseClicked="#onClickEventNew" text="Nuovo" visible="false" />
+         </children>
+    </AnchorPane>
+  </children>
+</VBox>
